@@ -13,7 +13,7 @@ public class textEditor extends JFrame implements ActionListener {
 
     public textEditor() {
         // Set up the frame
-        setTitle("Enhanced Text Editor");
+        setTitle("Text Editor");
         setSize(800, 600); 
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
